@@ -1,6 +1,6 @@
 # task_04
 
-My name is Debneel Roy and this is day 3 of my SQL Developer Internship at Elevate Labs.
+My name is Debneel Roy and this is day 4 of my SQL Developer Internship at Elevate Labs.
 
 Today's task was to use aggregate functions and find the sum,count,average of data from the tables created in the previous tasks.
 
